@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/TBWbLPf/woman-with-computer.jpg",
+      "title": "The Enigmatic Quest",
+      "author": "Amanda Writer",
+      "author_img": "https://i.ibb.co/J5XWq1c/istockphoto-669967498-612x612.jpg",
+      "posted_date": "2023-12-04",
+      "reading_time": 2,
+      "hashtags": ["adventure", "mystery", "fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/fQKftQx/top-view-drawing-pad-desk-with-laptop.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Sam Novelist",
+      "author_img": "https://i.ibb.co/gWs5ptS/istockphoto-1476041540-612x612.jpg",
+      "posted_date": "2023-12-03",
+      "reading_time": 1.5,
+      "hashtags": ["fantasy", "magic", "quest"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/k276Srq/student-attractive-girl-by-table.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Chris Scribe",
+      "author_img": "https://i.ibb.co/vB74Y7D/depositphotos-220569018-stock-photo-flirt-beautiful-sexy-woman-girl.webp",
+      "posted_date": "2023-12-02",
+      "reading_time": 3,
+      "hashtags": ["romance", "historical", "drama"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/qsGRWmz/notebook-with-camera-coffee-table.jpg",
+      "title": "Lunar Serenade",
+      "author": "Jordan Wordsmith",
+      "author_img": "https://example.com/jordan.jpg",
+      "posted_date": "2023-12-01",
+      "reading_time": 2.5,
+      "hashtags": ["science fiction", "space", "exploration"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/QN2rWNw/portrait-bored-young-caucasian-woman-black-clothing-leaning-face-hand.jpg",
+      "title": "Secrets of the Forgotten Kingdom",
+      "author": "Emily Penner",
+      "author_img": "https://i.ibb.co/XF6m3VQ/gettyimages-1491877958-612x612.jpg",
+      "posted_date": "2023-11-30",
+      "reading_time": 2,
+      "hashtags": ["fantasy", "adventure", "magic"]
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co/k4MDPrc/side-view-woman-beach-working-laptop.jpg",
+      "title": "Ripples of Reflection",
+      "author": "Alex Quill",
+      "author_img": "https://i.ibb.co/7Wp6fL8/istockphoto-1406233756-612x612.jpg",
+      "posted_date": "2023-11-29",
+      "reading_time": 1.5,
+      "hashtags": ["philosophy", "reflection", "inspiration"]
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co/3WZW1Nj/fashion-portrait-young-girl-working-cafe-terrace-sunny-day.jpg",
+      "title": "Beyond the Horizon",
+      "author": "Olivia Narrator",
+      "author_img": "https://i.ibb.co/NNgN6bZ/istockphoto-640115422-612x612.jpg",
+      "posted_date": "2023-11-28",
+      "reading_time": 2,
+      "hashtags": ["adventure", "discovery", "journey"]
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co/ZxgL74M/front-view-woman-working-home.jpg",
+      "title": "Ephemeral Embrace",
+      "author": "Daniel Poet",
+      "author_img": "https://i.ibb.co/yh7VD8R/istockphoto-1144738169-612x612.jpg",
+      "posted_date": "2023-11-27",
+      "reading_time": 1.5,
+      "hashtags": ["poetry", "love", "emotion"]
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co/brkdxM0/handsome-young-business-man-working-computer-drinking-coffee.jpg",
+      "title": "Chronicles of a Dreamer",
+      "author": "Sophie Dreamweaver",
+      "author_img": "https://i.ibb.co/V9bJNd4/im-listening-attractive-young-woman-talking-cellphone-office-im-listening-attractive-young-woman-tal.webp",
+      "posted_date": "2023-11-26",
+      "reading_time": 2.5,
+      "hashtags": ["fantasy", "dreams", "imagination"]
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co/2KqKqRK/crop-hand-writing-notebook-near-camera-coffee.jpg",
+      "title": "Harmony in Chaos",
+      "author": "Max Harmony",
+      "author_img": "https://i.ibb.co/DwjqbWc/download.jpg",
+      "posted_date": "2023-11-25",
+      "reading_time": 3,
+      "hashtags": ["science fiction", "dystopia", "technology"]
+    }
+  ]
+  
